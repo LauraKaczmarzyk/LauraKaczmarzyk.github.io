@@ -19,3 +19,7 @@ header {
     background-color: blue;
  }
 
+
+ body header h1:hover {
+    color:aquamarine;
+ }
